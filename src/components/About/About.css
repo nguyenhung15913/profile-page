@@ -1,0 +1,5 @@
+.about {
+    box-shadow: 2px 3px 8px rgba(53, 52, 52, 0.7);
+    margin: 4rem auto 4rem auto;
+    display: flex;
+}

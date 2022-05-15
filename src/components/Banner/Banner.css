@@ -1,0 +1,34 @@
+.banner {
+    background-color: rgb(21,22,27);
+    height: 90vh;
+    position: relative;
+    padding: 10px;
+}
+
+.banner img {
+    height: 100%;
+    margin-left: 55%;
+}
+
+.banner__info {
+    color: rgb(213, 213, 213);
+    width: 22%;
+    position: absolute;
+    top: 65%;
+    left: 30%;
+}
+
+.banner__info__introduce {
+    width: 100%;
+    border-bottom: 1px solid rgb(213, 213, 213);
+    font-size: 30px;
+}
+
+.banner__info h1 {
+    margin: 0;
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 1.6;
+    letter-spacing: 2px;
+}
+

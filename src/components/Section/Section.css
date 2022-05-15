@@ -1,0 +1,15 @@
+
+.section {
+    border-bottom: 1px solid rgb(239, 108, 0);
+    width: 700px;
+    display: flex;
+    justify-content: flex-end;
+}
+.section__title {
+    font-weight: normal;
+    width: 260px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: white;
+}
+

@@ -1,0 +1,59 @@
+.experience-card__item {
+    width: 486px;
+    padding: 1.6rem 1.6rem .5rem 1.6rem;
+    box-shadow: 1px 5px 8px rgba(53, 52, 52, 0.7);
+    background-color: rgb(254,254,254);
+}
+
+.experience-card__item h4 {
+    font-weight: normal;
+
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: rgb(123, 123, 123);
+}
+
+.experience-card__item__title-container {
+    border-bottom: 1px solid rgb(239, 108, 0);
+    width: 90%;
+    margin: 1rem 0;
+    
+}
+
+.experience-card__item__title {
+    width: 20%;
+    color: white;
+    font-weight: normal;
+    padding: .25rem .5rem;
+}
+
+.experience-card__item__description {
+    color: rgb(35,38,32);
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+.experience-card__date {
+    padding: .15rem;
+    position: relative;
+    width: fit-content;
+}
+
+.experience-card__date::before {
+    content: "";
+    width: 0; 
+    height: 0; 
+    border-top: 7px solid transparent;
+    border-bottom: 6px solid transparent; 
+    border-right: 6px solid rgb(239, 108, 0); 
+    position: absolute;
+    top: 3px;
+    left: -6px;
+  
+}
+
+.experience-card__date-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}

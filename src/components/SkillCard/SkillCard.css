@@ -1,0 +1,23 @@
+.experience-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+}
+
+.skill-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+
+}
+
+.skill-card__item {
+    width: 486px;
+    padding: 1.6rem;
+    box-shadow: 1px 5px 8px rgba(53, 52, 52, 0.7);
+}
+
+.skill-card__item__title {
+    width: 235px;
+    padding: .25rem .5rem;
+}
