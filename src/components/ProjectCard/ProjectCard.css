@@ -1,0 +1,48 @@
+.project-card {
+    width: 100%;
+    display: flex;
+    gap: 4rem;
+    flex-wrap: wrap;
+}
+
+.project-card__container {
+    width: 47%;
+    box-shadow: 1px 2px 5px rgba(53, 52, 52, 0.7);
+    height: fit-content;
+}
+
+.project-card__container img {
+    width: 100%;
+}
+
+.project-card__name {
+    color: rgb(50,50,50);
+    font-size: 25px;
+    text-align: center;
+}
+
+.project-card__description {
+    padding: 1.6rem;
+}
+
+.project-card__language__container {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+
+}
+
+.project-card__language {
+    padding: .25rem .5rem;
+    margin: 1rem 0;
+}
+
+.project-card__description .blog-card__item_description {
+    margin: 0;
+}
+
+.project-card__link {
+    display: flex;
+}
+
+

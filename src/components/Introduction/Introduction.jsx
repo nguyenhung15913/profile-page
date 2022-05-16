@@ -16,15 +16,29 @@ function Introduction() {
 					odit dicta vero tempora dignissimos fugiat, iusto quae numquam a.
 				</p>
 				<div className="introduction__buttons">
-					<button className="btn primary white">Download CV</button>
-					<button className="btn">Contact Me</button>
+					<a href="" className="btn primary white">
+						Download CV
+					</a>
+					<a href="" className="btn secondary">
+						Contact Me
+					</a>
 				</div>
 				<div className="introduction__social-media">
-					<i className="introduction__social-media__icon fa-brands fa-facebook-f"></i>
-					<i className="introduction__social-media__icon fa-brands fa-twitter"></i>
-					<i className="introduction__social-media__icon fa-brands fa-github"></i>
-					<i className="introduction__social-media__icon fa-brands fa-skype"></i>
-					<i className="introduction__social-media__icon fa-brands fa-google-plus-g"></i>
+					<a href="">
+						<i className="introduction__social-media__icon fa-brands fa-facebook-f"></i>
+					</a>
+					<a href="">
+						<i className="introduction__social-media__icon fa-brands fa-twitter"></i>
+					</a>
+					<a href="">
+						<i className="introduction__social-media__icon fa-brands fa-github"></i>
+					</a>
+					<a href="">
+						<i className="introduction__social-media__icon fa-brands fa-skype"></i>
+					</a>
+					<a href="">
+						<i className="introduction__social-media__icon fa-brands fa-google-plus-g"></i>
+					</a>
 				</div>
 			</div>
 		</div>
