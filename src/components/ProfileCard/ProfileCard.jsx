@@ -7,8 +7,8 @@ function ProfileCard() {
 			<div className="profile-card__profile-avatar"></div>
 
 			<div className="profile-card__user">
-				<div className="profile-card__name">Mister Perfect</div>
-				<div className="profile-card__title">User Interface Designer</div>
+				<div className="profile-card__name">Hung Nguyen (Harry)</div>
+				<div className="profile-card__title">Full-stack developer</div>
 			</div>
 
 			<div className="profile-card__info">
@@ -17,7 +17,7 @@ function ProfileCard() {
 						<td>
 							<b>Age</b>
 						</td>
-						<td>27 Years Old</td>
+						<td>25 Years Old</td>
 					</tr>
 
 					<tr className="profile-card__info__row">
@@ -31,7 +31,7 @@ function ProfileCard() {
 						<td>
 							<b>Email</b>
 						</td>
-						<td>email@gmail.com</td>
+						<td>hnguyen97@myseneca.ca</td>
 					</tr>
 
 					<tr className="profile-card__info__row">

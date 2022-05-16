@@ -4,8 +4,8 @@ function Banner() {
 		<div className="banner">
 			<div className="banner__info">
 				<div className="banner__info__introduce">Hi, I am</div>
-				<h1>Mister Perfect</h1>
-				<p>Founder & CEO, (Personal Business)</p>
+				<h1>Hung Nguyen</h1>
+				<p>Full-stack Developer</p>
 			</div>
 			<img src="/profile-pic.png" alt="" />
 		</div>

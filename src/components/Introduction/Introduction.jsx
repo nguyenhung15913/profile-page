@@ -9,11 +9,9 @@ function Introduction() {
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse hic
 					fuga deserunt quas molestiae ipsam magni ducimus, dolorum voluptates,
 					quos facilis quibusdam impedit doloribus. Ratione quasi dolorem
-					maiores aperiam laudantium!
-				</p>
-				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque sunt
-					odit dicta vero tempora dignissimos fugiat, iusto quae numquam a.
+					maiores aperiam laudantium! Lorem ipsum dolor sit amet consectetur
+					adipisicing elit. Eaque sunt odit dicta vero tempora dignissimos
+					fugiat, iusto quae numquam a.
 				</p>
 				<div className="introduction__buttons">
 					<a href="" className="btn primary white">
