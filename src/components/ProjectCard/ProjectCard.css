@@ -13,6 +13,7 @@
 
 .project-card__container img {
     width: 100%;
+    height: 300px;
 }
 
 .project-card__name {

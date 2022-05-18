@@ -8,6 +8,7 @@
 
 .introduction__container {
     width: 460px;
+    padding: 1rem;
 }
 
 .introduction h1 {
@@ -18,12 +19,10 @@
 .introduction p {
     margin: 1rem 0;
     line-height: 1.4;
+    letter-spacing: 1px;
+    text-align: justify;
 }
 
-.introduction p::first-letter {
-    padding-left: 1rem;
-    font-size: 1.5rem;
-}
 
 .btn {
     padding: .5rem 1rem;    

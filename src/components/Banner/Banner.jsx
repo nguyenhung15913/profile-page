@@ -7,7 +7,6 @@ function Banner() {
 				<h1>Hung Nguyen</h1>
 				<p>Full-stack Developer</p>
 			</div>
-			<img src="/profile-pic.png" alt="" />
 		</div>
 	);
 }

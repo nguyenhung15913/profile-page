@@ -6,12 +6,23 @@ function Introduction() {
 			<div className="introduction__container">
 				<h1>Let Me Introduce Myself</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse hic
-					fuga deserunt quas molestiae ipsam magni ducimus, dolorum voluptates,
-					quos facilis quibusdam impedit doloribus. Ratione quasi dolorem
-					maiores aperiam laudantium! Lorem ipsum dolor sit amet consectetur
-					adipisicing elit. Eaque sunt odit dicta vero tempora dignissimos
-					fugiat, iusto quae numquam a.
+					I am Harry, currently graduated from Seneca College. My major is
+					Computer Programming and Analysis. I have been into Web Development
+					since the first day I started learning code. My strength is front-end
+					web development and I also have basic knowledge about back-end.
+				</p>
+
+				<h1>What can I do?</h1>
+				<p>
+					<ul>
+						<li>
+							Create a front-end website based on a designed template (such as
+							Photoshop, Figma, etc.)
+						</li>
+						<li>Create a website with both client side and server</li>
+						<li>Integrate a website with database such as MongoDB and MySQL</li>
+						<li>Integrate API with a website</li>
+					</ul>
 				</p>
 				<div className="introduction__buttons">
 					<a href="" className="btn primary white">

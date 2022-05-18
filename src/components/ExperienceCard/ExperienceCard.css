@@ -21,7 +21,7 @@
 }
 
 .experience-card__item__title {
-    width: 20%;
+    width: fit-content;
     color: white;
     font-weight: normal;
     padding: .25rem .5rem;
