@@ -19,10 +19,10 @@ function ProjectCard() {
 						<div className="project-card__language primary">Spotify Api</div>
 					</div>
 					<div className="project-card__link">
-						<a href="">
+						<a href="https://spotify-project.vercel.app/home">
 							<i className=" introduction__social-media__icon fa-solid fa-globe"></i>
 						</a>
-						<a href="">
+						<a href="https://github.com/nguyenhung15913/Spotify-project">
 							<i className="introduction__social-media__icon fa-brands fa-github"></i>
 						</a>
 					</div>
@@ -46,10 +46,10 @@ function ProjectCard() {
 						<div className="project-card__language primary">Movie Api</div>
 					</div>
 					<div className="project-card__link">
-						<a href="">
+						<a href="https://showbuzz.vercel.app/">
 							<i className=" introduction__social-media__icon fa-solid fa-globe"></i>
 						</a>
-						<a href="">
+						<a href="https://github.com/nguyenhung15913/react-Showbuzz">
 							<i className="introduction__social-media__icon fa-brands fa-github"></i>
 						</a>
 					</div>

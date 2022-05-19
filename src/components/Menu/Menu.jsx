@@ -2,12 +2,27 @@ import "./Menu.css";
 function Menu() {
 	return (
 		<ul className="menu">
-			<li className="menu__item">Home</li>
-			<li className="menu__item">About</li>
-			<li className="menu__item">Skills</li>
-			<li className="menu__item">Experience</li>
-			<li className="menu__item">Education</li>
-			<li className="menu__item">Blog</li>
+			<a href="#">
+				<li className="menu__item">Home</li>
+			</a>
+			<a href="#about">
+				<li className="menu__item">About</li>
+			</a>
+			<a href="#skills">
+				<li className="menu__item">Skills</li>
+			</a>
+			<a href="#experience">
+				<li className="menu__item">Experience</li>
+			</a>
+			<a href="#project">
+				<li className="menu__item">Project</li>
+			</a>
+			<a href="#education">
+				<li className="menu__item">Education</li>
+			</a>
+			<a href="#blog">
+				<li className="menu__item">Blog</li>
+			</a>
 		</ul>
 	);
 }

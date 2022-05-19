@@ -14,30 +14,30 @@ function App() {
 		<>
 			<Banner />
 			<Menu />
-			<div className="container">
+			<div id="about" className="container">
 				<About />
 			</div>
-			<Section name="Skills" />
+			<Section id="skills" name="Skills" />
 			<div className="container">
 				<SkillCard />
 			</div>
-			<Section name="Experience" />
+			<Section id="experience" name="Experience" />
 			<div className="secondary mb4rem">
 				<div className="container">
 					<ExperienceCard />
 				</div>
 			</div>
-			<Section name="Project" />
+			<Section id="project" name="Project" />
 			<div className="secondary mb4rem">
 				<div className="container">
 					<ProjectCard />
 				</div>
 			</div>
-			<Section name="Education" />
+			<Section id="education" name="Education" />
 			<div className="container">
 				<EducationCard />
 			</div>
-			<Section name="Blog" />
+			<Section id="blog" name="Blog" />
 			<div className="secondary">
 				<div className="container">
 					<BlogCard />

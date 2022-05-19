@@ -3,7 +3,8 @@ import "./ProfileCard.css";
 function ProfileCard() {
 	return (
 		<div className="profile-card">
-			<div className="profile-card__profile-banner"></div>
+			<img className="profile-card__profile-banner" src="/cover.jpg" alt="" />
+
 			<div className="profile-card__profile-avatar"></div>
 
 			<div className="profile-card__user">
@@ -31,7 +32,7 @@ function ProfileCard() {
 						<td>
 							<b>Email</b>
 						</td>
-						<td>hnguyen97@myseneca.ca</td>
+						<td>nguyenhung15913@gmail.com</td>
 					</tr>
 
 					<tr className="profile-card__info__row">
