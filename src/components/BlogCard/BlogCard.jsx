@@ -18,9 +18,9 @@ function BlogCard() {
 	useEffect(() => {
 		fetchBlogs();
 		console.log(posts);
-	}, []);
+	}, [posts]);
 
-	if (!posts || posts == undefined || posts.length <= 0) {
+	if (!posts || posts === undefined || posts.length <= 0) {
 		return <div>Blogs are not ready yet.</div>;
 	}
 
