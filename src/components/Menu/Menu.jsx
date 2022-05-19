@@ -2,7 +2,7 @@ import "./Menu.css";
 function Menu() {
 	return (
 		<ul className="menu">
-			<a href="#">
+			<a href="#banner">
 				<li className="menu__item">Home</li>
 			</a>
 			<a href="#about">
