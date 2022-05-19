@@ -38,7 +38,7 @@ function ExperienceCard() {
 					</ul>
 				</p>
 				<div className="experience-card__date-container">
-					<div className="experience-card__date primary">2014-2016</div>
+					<div className="experience-card__date primary">01/2022-04/2022</div>
 				</div>
 			</div>
 		</div>

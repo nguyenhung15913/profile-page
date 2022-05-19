@@ -1,5 +1,6 @@
 .blog-card__container {
     display: flex;
+    flex-wrap: wrap;
     gap: 4rem;
 }
 
@@ -47,5 +48,5 @@
 
 .blog-card__single {
     display: flex;
-    width: 50%;
+    width: 47%;
 }
