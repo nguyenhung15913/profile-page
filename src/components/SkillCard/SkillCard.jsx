@@ -31,7 +31,7 @@ function SkillCard() {
 
 	const skillsMobile = [
 		{ type: "React Native", level: 70 },
-		{ type: "Android Java", level: 40 }
+		{ type: "Java", level: 40 }
 	];
 
 	return (
@@ -53,7 +53,7 @@ function SkillCard() {
 
 			<div className="skill-card__item">
 				<h4 className="skill-card__item__title primary">Mobile Application</h4>
-				<SkillBar skills={skillsMobile} height={25} />
+				<SkillBar skills={skillsMobile} height={30} />
 			</div>
 		</div>
 	);

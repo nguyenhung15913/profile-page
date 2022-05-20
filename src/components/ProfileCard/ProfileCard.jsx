@@ -5,7 +5,7 @@ function ProfileCard() {
 		<div className="profile-card">
 			<img className="profile-card__profile-banner" src="/cover.jpg" alt="" />
 
-			<div className="profile-card__profile-avatar"></div>
+			{/* <div className="profile-card__profile-avatar"></div> */}
 
 			<div className="profile-card__user">
 				<div className="profile-card__name">Hung Nguyen (Harry)</div>

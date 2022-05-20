@@ -23,3 +23,7 @@
 .skillbar-percent {
     color: rgb(35,35,35) !important;
 }
+
+.skillbar-title {
+    width: 115px !important;
+}
