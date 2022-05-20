@@ -1,0 +1,14 @@
+@media (max-width: 1165px) {
+    body {
+        padding: 0 .5rem;
+    }
+    .menu {
+        display: none;
+    }
+    .skill-card__item, .experience-card__item, .blog-card__single{
+        width: 38%;
+    }
+    .project-card__container {
+        width: 42%;
+    }
+}
