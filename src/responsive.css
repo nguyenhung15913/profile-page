@@ -2,6 +2,10 @@
     body {
         padding: 0 .5rem;
     }
+
+    .banner__info {
+        top: 30%;
+    }
     .menu {
         display: none;
     }
@@ -128,6 +132,12 @@
 }
 
 @media (max-width: 450px) {
+
+    .banner__info {
+        top: 30%;
+        left: 30%;
+        color: darkmagenta;
+    }
 
     .section {
         width: 300px;
