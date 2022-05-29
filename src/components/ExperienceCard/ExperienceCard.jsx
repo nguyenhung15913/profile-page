@@ -13,8 +13,14 @@ function ExperienceCard() {
 
 				<p className="experience-card__item__description">
 					<ul>
-						<li>Developed a full-stack delivery web application.</li>
-						<li>Developed a full-stack delivery mobile application.</li>
+						<li>
+							Developed a full-stack delivery web application using React.js and
+							Node.js.
+						</li>
+						<li>
+							Developed a full-stack delivery mobile application using React
+							Native and Node.js.
+						</li>
 					</ul>
 				</p>
 				<div className="experience-card__date-container">
@@ -30,8 +36,8 @@ function ExperienceCard() {
 
 				<p className="experience-card__item__description">
 					<ul>
-						<li>Worked on current issues</li>
-						<li>Developed front-end mobile application.</li>
+						<li>Worked on current issues on GitHub</li>
+						<li>Developed front-end mobile application using React Native.</li>
 						<li>
 							Developed and fixed bugs with teams on Slack and Microsoft Teams
 						</li>
