@@ -23,7 +23,7 @@ function SkillCard() {
 	];
 
 	const skillsDatabase = [
-		{ type: "MongoDB", level: 80 },
+		{ type: "MongoDB", level: 50 },
 		{ type: "Mongoose.js", level: 80 },
 		{ type: "MySQL", level: 60 },
 		{ type: "Sequelize", level: 80 }
